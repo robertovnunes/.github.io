@@ -1,0 +1,449 @@
+{
+  "settings": {
+    "name": "Site-12-27_2042",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.10",
+    "siteFonts": [],
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "https://www.privacyacademy.com.br",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "cookiesAlert": "",
+    "gdpr": "By continiung you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>.",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-131342334-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-131342334-1');\r\n</script>\r\n\r\n<!-- Google Tag Manager -->\r\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\r\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\r\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\r\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\r\n})(window,document,'script','dataLayer','GTM-57LHD4J');</script>\r\n<!-- End Google Tag Manager -->\r\n\r\n<!-- Google Tag Manager (noscript) -->\r\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-57LHD4J\"\r\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\r\n<!-- End Google Tag Manager (noscript) -->\r\n",
+    "sitemapSwitcher": "on",
+    "uniqCompNum": 9,
+    "versionPublish": "4.8.10"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#eb6b56",
+            "hamburgerColor": "#2969b0"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#form1-5\" data-toolbar=\"-mbrBtnMove\">CONTATO</a></li>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#eb6b56"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#2969b0"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "25px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "items": " <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-1\">PRIVACY ACADEMY</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#msg-box4-2\">CURSO</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#pricing-table1-4\">CORPO DOCENTE</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-info\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html#testimonials1-8\">AGENDA</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-12-27-at-20.40.56-109x128.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "mobirise",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": "60"
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-info\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PRIVACY ACADEMY</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": "0.5"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-12-27-at-20.40.56-454x532.jpg",
+              "link": "",
+              "alt": "",
+              "title": "PRIVACY ACADEMY"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "ESTEJA PREPARADO PARA A NOVA LEI GERAL DE PROTEÇÃO DE DADOS - <br><span style=\"font-weight: normal;\">TURMA JANEIRO/2019</span>",
+          "text": "<p>Mercado e Academia. Direito e Tecnologia. O mundo em que vivemos nos exige estudar e entender as interseções entre elas.\n</p><p>\nO mercado estimula através de investimentos a academia; a academia, alimenta o mercado de novas ideias.&nbsp;</p><p>A tecnologia não enxerga antigas fronteiras; o Direito, passa a ver o mundo por lentes mais atuais.\n</p><p>Então, a privacidade precisa e merece ser vista a partir desses quatro pontos de vista, convergindo no que dá origem a uma visão interdisciplinar e mercadológica.&nbsp;</p><p>\nÉ essa a proposta inovadora da <b>Privacy Academy</b>. Unir Academia e Mercado, Direito e Tecnologia.&nbsp;</p><p>Ensinar \"<b>O QUÊ</b>\" - a lei - mas também e especialmente o \"<b>COMO</b>\" - na forma do compliance que orienta como concretizar os aspectos jurídicos em ações práticas.&nbsp;<br></p><p>\n</p><p><br></p><p><b>Mercado e Academia.\n</b></p><p><b>Direito e Tecnologia.\n</b></p><p><b>Teoria e Prática.\n</b></p><p><b>Juntos.&nbsp;</b></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#2969b0",
+              "text-align": "right",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "color": "#2969b0",
+              "font-size": "15px",
+              "text-align": "left"
+            }
+          },
+          "headerAlign": "right",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Inscreva-se já! - Turma Janeiro - 21 a 25/1</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Política de Privacidade e Termos de Uso</a> ",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2969b0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/marca-pb-1080x1251.jpg",
+              "link": "",
+              "alt": "50",
+              "title": "TETETE"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">CURSO </span>- <span style=\"font-weight: normal;\">Lei Geral de Proteção de Dados</span><br><span style=\"font-weight: normal;\"><br></span>Janeiro/2019 - 21 a 25/01<br>IMPACT HUB PAÇO ALFÂNDEGA",
+          "text": "<p>A Lei Geral de Proteção de Dados (LGPD - Lei 13.709/2018) estabeleceu um marco regulatório inédito no país quanto à proteção de dados pessoais. Mais do que \"mais uma lei”, sua chegada marca o ingresso do país numa nova era, alinhando-nos com o que de mais avançado existe hoje em termos de garantias legais aos cidadãos.&nbsp;</p><p>Para as empresas, representa uma enorme oportunidade de repensar modelos de negócios e rever processos internos, garantindo ao adotar o que é previsto na lei, uma maior segurança aos seus dados, e, consequentemente, ao seu negócio.<br></p><p>Porém, como qualquer mudança, ela não vem sem desafios. Grandes desafios.<br></p><p>Nós, na <b>Privacy Academy</b>, atentos ao mercado e à necessidade de uma formação interdisciplinar indispensável para os acadêmicos e profissionais que estarão na linha de frente dessa mudança, desenvolveu&nbsp;<br></p><p>um curso único a partir de uma abordagem sistêmica, onde alia o saber de respeitados acadêmicos nas áreas de Direito e de Tecnologia a profissionais com vasta experiência no mercado, onde atuam cada um em uma das duas áreas do conhecimento.&nbsp;</p><p>Porém tão importante quanto saber \"<b>o que fazer</b>\" (entender o que prevê a lei) é saber \"<b>como fazer</b>\", ou seja, como transformar todos os aspectos do ambiente organizacional para atingir a conformidade com a lei.&nbsp;<br></p><p>Pensando nisso, o objetivo geral do curso é apresentar o cenário jurídico/técnico no qual se insere a LGPD bem como orientar os alunos quanto aos fundamentos básicos para implementação de um programa de conformidade orientado à realidade prática de mercado.<br></p><p>O curso tem carga horária de <b>40 horas/aula</b>, divididas em exposições teóricas e atividades práticas, onde todos os principais aspectos relativos à segurança da informação e privacidade, à luz do que prevê a LGPD, são abordados.<br></p><p>É dada ênfase de forma diferenciada no mercado, ao compliance em relação a lei, através de estudos de caso, simulações e exercícios onde os alunos poderão colocar em prática todos o conteúdo oferecido pelo curso, de modo que possam voltar às suas empresas e dar os primeiros passos no longo caminho rumo a conformidade com a LGPD.<br></p>",
+          "_tags": [
+            "Layout"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-size": "23px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-size": "14px",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2"
+        },
+        {
+          "_params": {
+            "firstType": "blue",
+            "secondType": "orange",
+            "thirdType": "blue",
+            "fourthType": "orange",
+            "fifthType": "hidden",
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#eb6b56",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "AMÁLIA CÂMARA",
+          "currency1": "",
+          "price1": "",
+          "period1": "",
+          "list1": "<ul><li><b>Doutora em Ciência Política e em Direito pela Universidade Federal de Pernambuco&nbsp;</b></li><li><b><br></b></li><li><b>Professora no Curso de Direito da Universidade de Pernambuco </b></li><li><b>&nbsp;</b></li><li><b>Gerente de Desenvolvimento da Pró-Reitoria de Extensão da UPE&nbsp;</b></li><li><b><br></b></li><li><b>Coordenadora do grupo de pesquisa e extensão Smart Cities - Cidades Inteligentes/UPE</b></li><li><b><br></b></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"http://lattes.cnpq.br/2714417044890847\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">CURRÍCULO LATTES</a>",
+          "title2": "RUY QUEIROZ",
+          "currency2": "",
+          "price2": "",
+          "period2": "",
+          "list2": "<ul><li><b>PhD em Computing pelo Imperial College, Londres&nbsp;</b></li><li><b><br></b></li><li><b>Professor Titular do Centro de Informática da UFPE</b></li><li><b><br></b></li><li><b>Co-Editor-in-Chief do Logic Journal of the IGPL (Oxford U Press)&nbsp;</b></li><li><b><br></b></li><li><b>Membro do Advisory Group do Rolf Schock Prize in Logic and Philosophy (Royal Academy of Sciences, Sweden)&nbsp;</b><br></li><li><b><br></b></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"http://lattes.cnpq.br/1825502153580661\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">CURRÍCULO LATTES</a>",
+          "title3": "MARCILIO BRAZ JR",
+          "currency3": "",
+          "price3": "",
+          "period3": "",
+          "list3": "<ul><li><b>Advogado especialista em privacidade e proteção de dados</b></li><li><b><br></b></li><li><b>Gerente de projetos em Tecnologia da Informação</b></li><li><b><br></b></li><li><b>Profissional com atuação na área de Tecnologia por 25 anos na IBM</b></li><li><b><br></b></li><li><b>Professor e idealizador do primeiro curso de extensão universitária do país sobre a LGPD na UPE&nbsp;</b><br></li><li><br></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K8604597D5\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">LINKEDIN</a>",
+          "title4": "CARLOS SAMPAIO",
+          "currency4": "",
+          "price4": "",
+          "period4": "",
+          "list4": "<ul><li><b>Gerente de TI e professor no CESAR (Cw</b></li><li><b><br></b></li><li><b><br></b></li><li><b>Especializado em segurança, computação em nuvem e gerenciamento&nbsp;</b><b>de TI&nbsp;</b></li><li><b><br></b></li><li><b>Certificado em AWS (Systems Architect e Developer, nível Associate)</b><br></li><li><b><br></b></li><li><b>Instrutor da Academia CISCO (Cyber Security)</b></li><li><b><br></b></li><li><br></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">LINKEDIN</a>",
+          "title5": "EXTENDED",
+          "currency5": "$",
+          "price5": "0",
+          "period5": "per month",
+          "list5": "<ul><li><b>Unlimited</b> Storage</li><li><b>Unlimited</b> Users</li><li><b>2 TB</b> Bandwidth</li></ul>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">DEMO LINK</a>",
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-4",
+          "_styles": {
+            ".mbr-plan__details UL": {
+              "text-align": "left",
+              "font-size": "13px",
+              "color": "#2969b0"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": "3",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "header": "AGENDA",
+          "items": [
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\"><b>DEZEMBRO/2018</b></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><b>11/12 </b>- Palestra - Oliveira, Augusto, Maaze Advogados - <b>Fortaleza</b></p><p class=\"mbr-reviews__p\"><b>12/12</b> - Treinamento In-company - Oliveira, Augusto, Maaze Advogados - <b>Fortaleza</b></p><p class=\"mbr-reviews__p\"><b>11 a 20/12</b> - Curso de extensão - Introdução à Lei Geral de Proteção de Dados - Aspectos teóricos e práticos - Universidade de Pernambuco - <b>Recife</b></p>"
+            },
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p><b>JANEIRO/2019</b></p><p><b>21 a 25/01 - Curso - Lei Geral de Proteção de Dados - Impact Hub - Paço Alfandega - Recife</b></p><p><b>23/01</b> - Palestra - Innovation Dinner - <b>Recife</b><br></p><p><b>28/01</b> - Palestra - Oliveira, Augusto, Maaze Advogados - <b>Salvador</b>&nbsp;</p><p><b>\n29/01</b> - Treinamento In-company - Oliveira, Augusto, Maaze Advogados - <b>Salvador</b></p><p>Palestra - Instituto de Criminalística - Recife (data a definir)\n</p><p>\n</p><p><br></p>"
+            },
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\"><b>FEVEREIRO/2019</b></p><p class=\"mbr-reviews__p\">Palestra - Ministério Público de Pernambuco - Recife (data a definir)<br></p><p class=\"mbr-reviews__p\">Painel - OAB/PE - Recife (data a definir)</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            },
+            {
+              "authorName": "John Smith",
+              "authorBio": "Developer",
+              "text": "<p class=\"mbr-reviews__p\">“Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, aspernatur, voluptatibus, atque, tempore molestiae sed modi a ullam sint adipisci rerum vel praesentium voluptas deserunt veniam provident culpa sequi veritatis.”</p>"
+            }
+          ],
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-8",
+          "testimonial": [
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\"><b>DEZEMBRO/2018</b></p><p class=\"mbr-reviews__p\"><br></p><p class=\"mbr-reviews__p\"><b>11/12 </b>- Palestra - Oliveira, Augusto, Maaze Advogados - <b>Fortaleza</b></p><p class=\"mbr-reviews__p\"><b>12/12</b> - Treinamento In-company - Oliveira, Augusto, Maaze Advogados - <b>Fortaleza</b></p><p class=\"mbr-reviews__p\"><b>11 a 20/12</b> - Curso de extensão - Introdução à Lei Geral de Proteção de Dados - Aspectos teóricos e práticos - Universidade de Pernambuco - <b>Recife</b></p>"
+            },
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p><b>JANEIRO/2019</b></p><p><b>21 a 25/01 - Curso - Lei Geral de Proteção de Dados - Impact Hub - Paço Alfandega - Recife</b></p><p><b>23/01</b> - Palestra - Innovation Dinner - <b>Recife</b><br></p><p><b>28/01</b> - Palestra - Oliveira, Augusto, Maaze Advogados - <b>Salvador</b>&nbsp;</p><p><b>\n29/01</b> - Treinamento In-company - Oliveira, Augusto, Maaze Advogados - <b>Salvador</b></p><p>Palestra - <b>Instituto de Criminalística da Polícia Civil</b> - Recife (data a definir)\n</p><p>\n</p><p><br></p>"
+            },
+            {
+              "authorName": "",
+              "authorBio": "",
+              "text": "<p class=\"mbr-reviews__p\"><b>FEVEREIRO/2019</b></p><p class=\"mbr-reviews__p\">Palestra - <b>Escola Superior do Ministério Público de Pernambuco</b> - Recife (data a definir)<br></p><p class=\"mbr-reviews__p\">Painel - <b>OAB/PE</b> - Recife (data a definir)</p><p class=\"mbr-reviews__p\"><br></p>"
+            }
+          ],
+          "_styles": {
+            ".mbr-section__header": {
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/marca-pb-1080x1251.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.3"
+          },
+          "title": "DÚVIDAS?",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Enviar</a>",
+          "form": {
+            "action": "contato@privacyacademy.com.br",
+            "alerts": {
+              "success": "Obrigado pelo contato! Logo te responderemos."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Nome*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Mensagem"
+              }
+            }
+          },
+          "_tags": [
+            "Layout"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-5",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff",
+              "font-size": "30px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
